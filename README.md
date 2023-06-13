@@ -1,4 +1,4 @@
-# WhatsApp Clone
+# MiBondi App
 
 This is 'Mi Bondi' app that tracks buses' position of Córdoba, Argentina.
  
